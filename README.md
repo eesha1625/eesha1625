@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Eesha Kumari 👋
+
+🎓 Computer Science Student  
+💡 Interested in Digital Logic Design & Software Development  
+
+## 🔐 Projects
+- **Password Security System (Multisim)**  
+  Logic-based password verification system using XOR, NOT, and AND gates.  
+  🔗 https://github.com/eesha1625/Password-Security-System-Multisim
+
+📌 More projects coming soon...
+
 
 <!--
 **eesha1625/eesha1625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
